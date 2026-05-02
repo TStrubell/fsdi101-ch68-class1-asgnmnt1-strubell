@@ -15,17 +15,14 @@ blockquote {
     color: #333;
 }
 
-<nav>
-    <a href="index.html">Home</a>
-    <a href="https://github.com/TStrubell/fsdi101-ch68-class1-asgnmnt1-strubell">GitHub</a>
-</nav>
-
+/* Base nav link style */
 nav a {
     color: #003366;
     text-decoration: none;
     font-weight: bold;
 }
 
+/* Hover effect */
 nav a:hover {
     color: #0066cc;
     text-decoration: underline;
